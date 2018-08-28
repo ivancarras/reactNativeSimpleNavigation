@@ -14,4 +14,4 @@ yarn start
 Install Expo in your device:
 https://expo.io/learn 
 
-## Run the app on android or Ios device
+## Run the app on android or iOs device
